@@ -1,3 +1,3 @@
 # helloworld
 hello everybody！
-It is abount deepShare.
+It is abount AlbumView.
